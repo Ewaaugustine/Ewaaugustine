@@ -5,7 +5,6 @@ I'm a Software Engineer, Content Creator. I'm passionate about sharing knowledge
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: 
 - 🌱 I’m currently learning JavaScript, Reactjs.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
